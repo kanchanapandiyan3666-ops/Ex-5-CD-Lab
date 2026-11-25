@@ -33,7 +33,7 @@ int yywrap() {
 }
 ```
 
-## EX5_0125.y:
+## EX5_0125.y
 ```
 %{
 #include <stdio.h>
